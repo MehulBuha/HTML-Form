@@ -3,4 +3,8 @@ hello everyone my name is mehul buha.
 
 /begin{eqution}...</end{equation}
 
-ndjnefnrnf
+
+hello everyone my name is mehul buha.
+
+
+/begin{eqution}...</end{equation}
